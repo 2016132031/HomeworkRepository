@@ -1,0 +1,51 @@
+{
+    "Rust": {
+        "The Rust Programming Language":{
+            "price": 30.5,
+            "difficulty": "medium",
+            "img_location": "./RUST_programming.jpg"
+        },
+        "Network Programming with Rust":{
+            "price": 25.5,
+            "difficulty": "hart",
+            "img_location": "./RUST_network_programming.jpeg"
+        }
+    },
+    "Java Script": {
+        "JavaScript The Good Parts":{
+            "price": 19.99,
+            "difficulty": "medium",
+            "img_location": "./JS_the_good_parts.jpg"
+        },
+        "JavaScript for kid":{
+            "price": 15.99,
+            "difficulty": "easy",
+            "img_location": "./JS_for_kid.jpg"
+        }
+    },
+    "CSS": {
+        "CSS: The Definitive Guide":{
+            "price": 32.2,
+            "difficulty": "easy",
+            "img_location": "./CSS_the_definitive.jpg"
+        },
+        "CSS Secrets: Better Solutions to Everyday Web Design Problems":{
+            "price": 25.73,
+            "difficulty": "medium",
+            "img_location": "./CSS_Secrets.jpg"
+        }
+    },
+    "Type Script": {
+        "Effective TypeScript":{
+            "price": 30.87,
+            "difficulty": "medium",
+            "img_location": "./TS_effectiev.jpg"
+        },
+        "EAngular Projects":{
+            "price": 34.99,
+            "difficulty": "hard",
+            "img_location": "./TS_Angular.jpg"
+        }
+
+    }
+}
